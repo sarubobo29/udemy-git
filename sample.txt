@@ -2,3 +2,5 @@ hello!!!!
 git commit --amend!
 add push!
 git merge!
+conflict!
+pull request!
