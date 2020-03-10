@@ -1,3 +1,4 @@
 home
 add git pull
 commit --amend !
+add sample!
